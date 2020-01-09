@@ -1,0 +1,16 @@
+
+.change{
+	text-decoration: line-through;
+}
+
+.colorContainer, ul
+{
+	text-align: center;
+	margin-top: 50px;
+	padding: 10px;
+}
+
+body
+{
+	background: linear-gradient(to right, red, yellow);
+}
